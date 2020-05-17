@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="seleniumTests.UploadDownload"/>
+      <class name="seleniumTests.WebTable"/>
+      <class name="seleniumTests.DownloadFile"/>
+      <class name="seleniumTests.FramesDemo"/>
+      <class name="seleniumTests.AlertDemo"/>
+      <class name="seleniumTests.ImplicitExpWait"/>
+      <class name="seleniumTests.JavascriptExecutor123"/>
+      <class name="TestNgDemo.TestNgDemo.DataPro"/>
+      <class name="seleniumTests.DropdownDamo"/>
+      <class name="seleniumTests.WindowsHandleDemo"/>
+      <class name="seleniumTests.ScrollUpAndDown"/>
+      <class name="com.listeners.Test1"/>
+      <class name="seleniumTests.Tooltip"/>
+      <class name="seleniumTests.HeadLessBrowser"/>
+      <class name="seleniumTests.ScreenShotDemo"/>
+      <class name="TestNgDemo.TestNgDemo.TestNgTest2"/>
+      <class name="seleniumTests.DataPro"/>
+      <class name="TestNgDemo.TestNgDemo.JavascriptExecutor123"/>
+      <class name="TestNgDemo.TestNgDemo.TestNgTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
